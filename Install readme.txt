@@ -1,4 +1,3 @@
-# NEBULA
 NEBULA Decals by Krasimir.
 
 Installation:
@@ -25,4 +24,3 @@ textureNames = dcl2;nebula;esa1;esa2;nasa1;nasa2;roskosmos1;roskosmos2;energia1;
 
 
 License: CC BY-NC-SA 4.0
-
