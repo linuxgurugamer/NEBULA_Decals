@@ -14,4 +14,4 @@ cp -a NEBULA GameData/NEBULA
 releasedir="."
 fname="${releasedir}/NEBULA_Decals-${version}.zip"
 zip -9r $fname GameData
-rm -fr GameData
+rm -fr GameData/NEBULA
