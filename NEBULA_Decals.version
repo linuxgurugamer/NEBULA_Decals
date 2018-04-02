@@ -1,6 +1,11 @@
 {
 	"NAME":"NEBULA_DecalsContinued",
 	"URL":"https://raw.githubusercontent.com/linuxgurugamer/NEBULA_Decals/master/NEBULA_Decals.version",
+    "DOWNLOAD": "http://spacedock.info/mod/613/NEBULA_Decals",
+    "GITHUB": {
+      "USERNAME": "linuxgurugamer",
+      "REPOSITORY": "NEBULA_Decals"
+    },
 	"VERSION":
 	{
 		"MAJOR":0,
@@ -24,6 +29,6 @@
 	{
 		"MAJOR":1,
 		"MINOR":4,
-		"PATCH":9999999999
+		"PATCH":99
 	}
 }
