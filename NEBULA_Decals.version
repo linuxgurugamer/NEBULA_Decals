@@ -1,12 +1,12 @@
 {
 	"NAME":"NEBULA_DecalsContinued",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=419",
+	"URL":"https://raw.githubusercontent.com/linuxgurugamer/NEBULA_Decals/master/NEBULA_Decals.version",
 	"VERSION":
 	{
 		"MAJOR":0,
 		"MINOR":1,
 		"PATCH":1,
-		"BUILD":5
+		"BUILD":6
 	},
 	"KSP_VERSION":
 	{
@@ -23,7 +23,7 @@
 	"KSP_VERSION_MAX":
 	{
 		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":1
+		"MINOR":4,
+		"PATCH":9999999999
 	}
 }
