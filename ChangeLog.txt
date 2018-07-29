@@ -1,0 +1,7 @@
+0.1.1.7
+	Added local Tweakscale config
+	Make mass not change during scaling
+	Added 1.875 size
+	Added buildRelease.bat
+	Added deploy.bat
+	Updated Firespitter
