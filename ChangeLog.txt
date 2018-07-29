@@ -1,3 +1,6 @@
+0.1.2
+	Added long curved (1x2 and 2x1) decals
+
 0.1.1.7
 	Added local Tweakscale config
 	Make mass not change during scaling
