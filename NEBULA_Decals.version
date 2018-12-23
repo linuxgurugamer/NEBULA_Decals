@@ -1,34 +1,25 @@
 {
-	"NAME":"NEBULA_DecalsContinued",
-	"URL":"http://ksp.spacetux.net/avc/NEBULA_Decals",
-    "DOWNLOAD": "http://spacedock.info/mod/613/NEBULA_Decals",
-    "GITHUB": {
-      "USERNAME": "linuxgurugamer",
-      "REPOSITORY": "NEBULA_Decals"
-    },
-	"VERSION":
-	{
-		"MAJOR":0,
-		"MINOR":1,
-		"PATCH":2,
-		"BUILD":1
-	},
-	"KSP_VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":1
-	},
-	"KSP_VERSION_MIN":
-	{
-		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":1
-	},
-	"KSP_VERSION_MAX":
-	{
-		"MAJOR":1,
-		"MINOR":5,
-		"PATCH":99
-	}
+  "NAME": "NEBULA_DecalsContinued",
+  "URL": "http://ksp.spacetux.net/avc/NEBULA_Decals",
+  "DOWNLOAD": "http://spacedock.info/mod/613/NEBULA_Decals",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "NEBULA_Decals"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 2,
+    "BUILD": 1
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 1
+  }
 }
